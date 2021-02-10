@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sys_class_name" table="task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <name>task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_id>2b29eb002f52201047f757ab2799b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_class_name</sys_name>
+            <sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope>
+            <sys_update_name>sys_choice_task_sys_class_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Asset Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef29eb002f52201047f757ab2799b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+            <value>asset_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Application Request</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a329eb002f52201047f757ab2799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+            <value>business_app_request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catalog Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f29eb002f52201047f757ab2799b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+            <value>sc_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change Phase</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b29eb002f52201047f757ab2799b682</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+            <value>change_phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change Request</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e329eb002f52201047f757ab2799b690</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+            <value>change_request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af29eb002f52201047f757ab2799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+            <value>change_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chat Queue Entry</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b29eb002f52201047f757ab2799b6ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+            <value>chat_queue_entry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CMDB Multisource Recompute Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2729eb002f52201047f757ab2799b6b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:49</sys_updated_on>
+            <value>cmdb_multisource_recomp_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Feature Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef29eb002f52201047f757ab2799b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>release_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Follow On Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab29eb002f52201047f757ab2799b6d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>cert_follow_on_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Group approval</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7729eb002f52201047f757ab2799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>sysapproval_group</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Guided Setup Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3329eb002f52201047f757ab2799b6f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>gsw_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IMAC</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb29eb002f52201047f757ab2799b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>change_request_imac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incident</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7292f002f52201047f757ab2799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>incident</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incident Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73292f002f52201047f757ab2799b619</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>incident_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KB Submission</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f292f002f52201047f757ab2799b626</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>kb_submission</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Knowledge Feedback Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7292f002f52201047f757ab2799b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>kb_feedback_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orphan CI Remediation</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3292f002f52201047f757ab2799b642</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:50</sys_updated_on>
+            <value>orphan_ci_remediation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Private Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>18</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f292f002f52201047f757ab2799b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>vtb_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Problem</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>19</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b292f002f52201047f757ab2799b65d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>problem</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Problem Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0392f002f52201047f757ab2799b66b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>problem_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reclassification Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>21</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c392f002f52201047f757ab2799b678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>reclassification_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recommended Field Remediation</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>22</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48392f002f52201047f757ab2799b686</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>recommended_field_remediation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Release Phase</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>23</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04392f002f52201047f757ab2799b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>release_phase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Remediate Duplicate Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>24</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc392f002f52201047f757ab2799b6a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>reconcile_duplicate_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Renew Lease Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>25</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40392f002f52201047f757ab2799b6bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>statemgmt_renew_lease_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>26</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c392f002f52201047f757ab2799b6c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>sc_request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request new Knowledge Base</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>27</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4392f002f52201047f757ab2799b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:51</sys_updated_on>
+            <value>kb_knowledge_base_request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested Item</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>28</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80392f002f52201047f757ab2799b6e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>sc_req_item</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Required Field Remediation</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>29</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c392f002f52201047f757ab2799b6f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>required_field_remediation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Roster schedule entry proposal</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08396f002f52201047f757ab2799b600</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>roster_schedule_span_proposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scan Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>31</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0396f002f52201047f757ab2799b60e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>scan_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>32</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c396f002f52201047f757ab2799b61b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>service_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stale CI Remediation</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>33</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58396f002f52201047f757ab2799b629</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>stale_ci_remediation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Standard Change Proposal</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>34</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14396f002f52201047f757ab2799b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>std_change_proposal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>35</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc396f002f52201047f757ab2799b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ticket</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>36</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98396f002f52201047f757ab2799b652</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>ticket</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Order Line Subtask</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>37</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54396f002f52201047f757ab2799b660</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>alm_transfer_order_line_subtask</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Order Line Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>38</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10396f002f52201047f757ab2799b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:52</sys_updated_on>
+            <value>alm_transfer_order_line_task</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Upgrade History Task</label>
+            <language>en</language>
+            <name>task</name>
+            <sequence>39</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:40:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8396f002f52201047f757ab2799b67b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:40:53</sys_updated_on>
+            <value>upgrade_history_task</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

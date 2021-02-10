@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Create an incident">68d92ce02f52201047f757ab2799b688</sc_cat_item>
+        <sc_catalog display_value="Incident_Problem_Change">8779e4e02f52201047f757ab2799b657</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 16:02:20</sys_created_on>
+        <sys_id>61f9ace02f52201047f757ab2799b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident_Problem_Change.Create an incident</sys_name>
+        <sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_61f9ace02f52201047f757ab2799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 16:02:20</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CI/CD">275c50172f42201047f757ab2799b663</application>
+        <file_path/>
+        <instance_id>27535cbfdb6e4cd04d2bac44d4961937</instance_id>
+        <instance_name>dev98554</instance_name>
+        <name>sc_cat_item_catalog_61f9ace02f52201047f757ab2799b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create an incident">68d92ce02f52201047f757ab2799b688</sc_cat_item><sc_catalog display_value="Incident_Problem_Change">8779e4e02f52201047f757ab2799b657</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-09 16:02:20</sys_created_on><sys_id>61f9ace02f52201047f757ab2799b67f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Incident_Problem_Change.Create an incident</sys_name><sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package><sys_policy/><sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope><sys_update_name>sc_cat_item_catalog_61f9ace02f52201047f757ab2799b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-09 16:02:20</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1843664933</payload_hash>
+        <record_name>Incident_Problem_Change.Create an incident</record_name>
+        <reverted_from/>
+        <source>235c50172f42201047f757ab2799b665</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 16:02:20</sys_created_on>
+        <sys_id>31f9ace02f52201047f757ab2799b682</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1778787811f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 16:02:20</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>79f9ace03152201064313b878a3a4981</update_guid>
+        <update_guid_history>79f9ace03152201064313b878a3a4981:1843664933</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Incident_Problem_Change.Create an incident">8f2be4242f52201047f757ab2799b68a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 16:07:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>5f3c07eb7f8e40088364e66b6e80c890</sys_id>
+        <sys_metadata>61f9ace02f52201047f757ab2799b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident_Problem_Change.Create an incident</sys_name>
+        <sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package>
+        <sys_parent display_value="">68d92ce02f52201047f757ab2799b688</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope>
+        <sys_scope_delete display_value="">9acb7e1610d54922a19fb66d194bf364</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_61f9ace02f52201047f757ab2799b67f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_61f9ace02f52201047f757ab2799b67f">31f9ace02f52201047f757ab2799b682</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 16:07:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sys_class_name" table="sc_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <name>sc_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:45:34</sys_created_on>
+            <sys_id>c14a2f402f52201047f757ab2799b646</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_class_name</sys_name>
+            <sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope>
+            <sys_update_name>sys_choice_sc_task_sys_class_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:45:34</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catalog Task</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 16:45:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>894a2f402f52201047f757ab2799b645</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 16:45:34</sys_updated_on>
+            <value>sc_task</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

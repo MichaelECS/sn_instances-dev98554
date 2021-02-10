@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Incident_Problem_Change">8779e4e02f52201047f757ab2799b657</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 16:01:32</sys_created_on>
+        <sys_id>cec9a8e02f52201047f757ab2799b6c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident_Problem_Change.catalog_incident_problem_change</sys_name>
+        <sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_incident_problem_change">c6c9a8e02f52201047f757ab2799b6c8</sys_portal_page>
+        <sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_cec9a8e02f52201047f757ab2799b6c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 16:01:32</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CI/CD">275c50172f42201047f757ab2799b663</application>
+        <file_path/>
+        <instance_id>27535cbfdb6e4cd04d2bac44d4961937</instance_id>
+        <instance_name>dev98554</instance_name>
+        <name>sc_catalog_view_mtom_cec9a8e02f52201047f757ab2799b6c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Incident_Problem_Change">8779e4e02f52201047f757ab2799b657</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-09 16:01:32</sys_created_on><sys_id>cec9a8e02f52201047f757ab2799b6c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Incident_Problem_Change.catalog_incident_problem_change</sys_name><sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package><sys_policy/><sys_portal_page display_value="catalog_incident_problem_change">c6c9a8e02f52201047f757ab2799b6c8</sys_portal_page><sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope><sys_update_name>sc_catalog_view_mtom_cec9a8e02f52201047f757ab2799b6c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-09 16:01:32</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>1275689591</payload_hash>
+        <record_name>Incident_Problem_Change.catalog_incident_problem_change</record_name>
+        <reverted_from/>
+        <source>235c50172f42201047f757ab2799b665</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 16:01:32</sys_created_on>
+        <sys_id>46c9a8e02f52201047f757ab2799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1778786c5740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 16:01:32</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>8ec9a8e04f522010ef1af11f6f90bbcb</update_guid>
+        <update_guid_history>8ec9a8e04f522010ef1af11f6f90bbcb:1275689591</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Incident_Problem_Change.catalog_incident_problem_change">fa3bac242f52201047f757ab2799b6de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 16:07:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>3dd6ce15f0fd451a914276cc7a5d9944</sys_id>
+        <sys_metadata>cec9a8e02f52201047f757ab2799b6c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident_Problem_Change.catalog_incident_problem_change</sys_name>
+        <sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope>
+        <sys_scope_delete display_value="">9acb7e1610d54922a19fb66d194bf364</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_cec9a8e02f52201047f757ab2799b6c9</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_cec9a8e02f52201047f757ab2799b6c9">46c9a8e02f52201047f757ab2799b6cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 16:07:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

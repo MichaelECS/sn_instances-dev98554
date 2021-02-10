@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Artifacts" max_length="40" name="x_578400_ci_cd_artifacts" sizeclass="0" type="collection">
+        <element label="Generic Artefact" mandatory="true" max_length="256" name="generic_artefact" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="ID" mandatory="true" max_length="10" name="id" type="string" use_dynamic_default="true"/>
+        <element default="False" label="State" max_length="40" name="state" type="boolean"/>
+        <element label="Tool Name" mandatory="true" max_length="256" name="tool_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-02-10 17:52:23">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 16:01:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c6c9a8e02f52201047f757ab2799b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_incident_problem_change</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CI/CD" source="x_578400_ci_cd">275c50172f42201047f757ab2799b663</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI/CD">275c50172f42201047f757ab2799b663</sys_scope>
+        <sys_update_name>sys_portal_page_c6c9a8e02f52201047f757ab2799b6c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 16:01:32</sys_updated_on>
+        <title>catalog_incident_problem_change</title>
+        <user/>
+        <view>catalog_incident_problem_change</view>
+    </sys_portal_page>
+</record_update>

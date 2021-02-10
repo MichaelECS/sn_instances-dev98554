@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CICD_Request" max_length="40" name="x_578400_ci_cd_cicd_request" type="collection">
+        <element display="true" label="Request" max_length="255" name="request" type="string"/>
+        <element label="Response" max_length="255" name="response" type="string"/>
+    </element>
+</database>
